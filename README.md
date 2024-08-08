@@ -2,7 +2,9 @@
 
 > JMS (Java Message Service) Chat App.
 
-![](res/preview1.gif)
+<p align="center">
+    <img src="res/preview1.gif" alt="preview-gif">
+</p>
 
 ## About
 
@@ -18,4 +20,6 @@ This repo shows a simple localhost messaging app I've made as one of my Java cla
 
 Made with [OpenJMS](https://openjms.sourceforge.net/index.html). The Server stores a Topic, to which Message Producer / Consumers can subscribe and post messages to. It also acts as Connection Factory for its clients. 
 
-![](res/jms.jpg)
+<p align="center">
+    <img src="res/jms.jpg" alt="tech">
+</p>
