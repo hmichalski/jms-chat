@@ -1,1 +1,1 @@
-# jms-chat
+https://openjms.sourceforge.net/usersguide/jars.html
