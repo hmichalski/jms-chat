@@ -16,6 +16,6 @@ This repo shows a simple localhost messaging app I've made as one of my Java cla
 
 ## Technology
 
-The Server stores a Topic, to which Message Producer / Consumers can subscribe and post messages to. It also acts as Connection Factory for its clients. 
+Made with [OpenJMS](https://openjms.sourceforge.net/index.html). The Server stores a Topic, to which Message Producer / Consumers can subscribe and post messages to. It also acts as Connection Factory for its clients. 
 
 ![](res/jms.jpg)
